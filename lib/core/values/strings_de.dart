@@ -1,0 +1,44 @@
+class StringsDE {
+  static const String home = 'Startseite';
+  static const String spectacles = 'Brillen';
+  static const String contactLenses = 'Kontaktlinsen';
+  static const String lowVision = 'Vergrößernde Sehhilfen';
+  static const String visualOptics = 'Allgemeine Optik';
+  static const String myopiaControl = 'Myopie Management';
+  static const String additionalRefraction = 'Zusätzliche Brechung';
+  static const String sphere = 'Sphäre';
+  static const String cylinder = 'Zylinder';
+  static const String axis = 'Achse';
+  static const String stabilisation = 'Stabilisierung';
+  static const String vertex = 'Scheitel';
+  static const String notation = 'Notation';
+  static const String rounding = 'Rundung';
+  static const String calculate = 'Berechnen';
+  static const String clear = 'Löschen';
+  static const String cancel = 'Abbrechen';
+  static const String apply = 'Übernehmen';
+  static const String minus = 'Minus';
+  static const String plus = 'Plus';
+  static const String setting = 'Einstellung';
+  static const String settings = 'Einstellungen';
+  static const String rgpLensCalculation = 'Formstabile Kontaktlinsen';
+  static const String softLensCalculation = 'Weiche Kontaktlinsen';
+  static const String vertexCalculation = 'Scheitelpunktberechnung';
+  static const String contactLensesInUse = 'Kontaktlinsen im Einsatz';
+  static const String radius1 = 'Radius 1';
+  static const String radius2 = 'Radius 2';
+  static const String material = 'Material';
+  static const String rotation = 'Stabilisierung';
+  static const String newLensParameters = 'Neue Linsenparameter';
+  static const String overRefraction = 'Überrefraktion';
+  static const String finalContactLenses = 'Endgültige Kontaktlinsen';
+  static const String helpTooltip =
+      'Mit der RGP-Linsenberechnung können Sie eine neue RGP-Linse mit geänderten Parametern bewerten.';
+  static const String language = 'Sprache:';
+  static const String lensNotation = 'Linsenbezeichnung:';
+  static const String lensRounding = 'Linsenrundung:';
+  static const String keratometryUnit = 'Keratometry unit:';
+  static const String contactLensUnit = 'Kontaktlinseneinheit:';
+  static const String minusCylinder = 'Minus Zylinder';
+  static const String plusCylinder = 'Plus Zylinder';
+}
